@@ -38,7 +38,8 @@ Y obtuvimos el siguiente backlog:
 ![image](https://user-images.githubusercontent.com/86334236/194666395-79933a2a-79e7-4a5a-84c6-e6dc5f749d02.png)
 ![image](https://user-images.githubusercontent.com/86334236/194666563-1c1aa1b0-fcc2-4f20-b5f1-780b019f718e.png)
 ![image](https://user-images.githubusercontent.com/86334236/194666716-2da94ab6-fbd1-4a22-a2d1-8681a5784e43.png)
-
+Una vez finalizadas todas las tareas el tablero quedó de la siguiente manera:
+![imagen](https://user-images.githubusercontent.com/89535773/194672690-522977fd-492a-4d04-a71a-db8d874c4b21.jpg)
 ## Definición de hecho
 Como esta iteración es especial, consideramos que la definición de hecho es lograr tener un entendimiento claro sobre la investigación realizada y, finalmente, del problema a resolver.
 ## Recursos y horarios
