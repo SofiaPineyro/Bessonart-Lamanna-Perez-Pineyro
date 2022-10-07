@@ -17,6 +17,15 @@ Luego de la primera meeting, identificamos las siguientes tareas a realizar dura
 ![image](https://user-images.githubusercontent.com/86334236/194632155-e3a8a980-50f6-47be-979c-aa6b8967eab0.png)
 Además, creamos su backlog correspondiente:
 ![image](https://user-images.githubusercontent.com/86334236/194630984-27dd5b8a-7502-4353-8e83-d53fb268e697.png)
+### Tablero con división de tareas
+Luego de identificar las tareas a realizar, cada se asignó una tarea a realizar, obteniendo el siguiente tablero.
+![image](https://user-images.githubusercontent.com/86334236/194647813-dc638f01-cd19-472c-992d-b97c8a37edb1.png)
+El esfuerzo de las tareas realizadas en el tablero anterior está incluido en el esfuerzo de la tarea "Documentar meeting". Además, las tareas que no tienen persona asignada es debido a que se realizaron en conjunto.
+En los siguientes tableros mostramos el progeso del trabajo.
+![image](https://user-images.githubusercontent.com/86334236/194649532-74e506d5-fcb1-42ac-82ba-f00b796112cf.png)
+![image](https://user-images.githubusercontent.com/86334236/194650992-70c50800-a376-453d-a952-432b618a0cc4.png)
+![image](https://user-images.githubusercontent.com/86334236/194651625-15ce15dc-14f0-4b12-bd1d-d47d6dafde1b.png)
+
 ## Definición de hecho
 Como esta iteración es especial, consideramos que la definición de hecho es lograr tener un entendimiento claro sobre la investigación realizada y, finalmente, del problema a resolver.
 ## Recursos y horarios
@@ -35,7 +44,7 @@ Estimamos que la capacidad del equipo es **16 horas persona**.
 ## Esfuerzo estimado
 Estimamos que el esfuerzo estimado del equipo es **16 horas persona**.
 ## Velocidad estimada
-Estimamos que en esta iteración, nuestra velocidad será de ** **.
+Estimamos que en esta iteración nuestra velocidad será de ** **.
 ## Registro de horas
 #### Luca Bessonart
 - 
