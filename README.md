@@ -9,7 +9,7 @@ Para esta iteración, definimos los siguientes roles
  - Developers: Agustina Lamanna, Luca Bessonart
 Por motivos académicos, todos participaremos en tareas de desarrollo independientemente de los roles asignados.
 ## Sprint backlog
-
+Se puede visualizar en el tablero.
 ## Taskboard
 Realizamos un [tablero de tareas](https://dev.azure.com/sofiapineyro2302/App%20Transporte%20P%C3%BAblico) utilizando la herramienta Azure Boards. En este, agregamos todas las tareas que consideramos necesarias, tanto para esta iteración como para todo el proyecto.
 ### Tablero inicial
@@ -25,6 +25,14 @@ En los siguientes tableros mostramos el progeso del trabajo.
 ![image](https://user-images.githubusercontent.com/86334236/194649532-74e506d5-fcb1-42ac-82ba-f00b796112cf.png)
 ![image](https://user-images.githubusercontent.com/86334236/194650992-70c50800-a376-453d-a952-432b618a0cc4.png)
 ![image](https://user-images.githubusercontent.com/86334236/194651625-15ce15dc-14f0-4b12-bd1d-d47d6dafde1b.png)
+Agregamos todas las user stories, obteniendo el siguiente tablero
+![image](https://user-images.githubusercontent.com/86334236/194665228-a5dc8398-c829-41d6-a3d3-0df08c753988.png)
+![image](https://user-images.githubusercontent.com/86334236/194665931-97b50d36-6228-461a-9a9e-ac2c20f26971.png)
+![image](https://user-images.githubusercontent.com/86334236/194665809-f80faaaa-7d94-4326-880f-245dc51504ee.png)
+Y obtuvimos el siguiente backlog:
+![image](https://user-images.githubusercontent.com/86334236/194666395-79933a2a-79e7-4a5a-84c6-e6dc5f749d02.png)
+![image](https://user-images.githubusercontent.com/86334236/194666563-1c1aa1b0-fcc2-4f20-b5f1-780b019f718e.png)
+![image](https://user-images.githubusercontent.com/86334236/194666716-2da94ab6-fbd1-4a22-a2d1-8681a5784e43.png)
 
 ## Definición de hecho
 Como esta iteración es especial, consideramos que la definición de hecho es lograr tener un entendimiento claro sobre la investigación realizada y, finalmente, del problema a resolver.
@@ -44,8 +52,9 @@ Estimamos que la capacidad del equipo es **16 horas persona**.
 ## Esfuerzo estimado
 Estimamos que el esfuerzo estimado del equipo es **16 horas persona**.
 ## Velocidad estimada
-Estimamos que en esta iteración nuestra velocidad será de ** **.
+Para esta iteración, como aún no teníamos stories, no estimamos la velocidad en story points.
 ## Registro de horas
+El esfuerzo real total fue de 
 #### Luca Bessonart
 - 
 #### Agustina Lamanna
