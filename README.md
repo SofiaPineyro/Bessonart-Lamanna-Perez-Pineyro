@@ -8,6 +8,10 @@ Para esta iteración, definimos los siguientes roles
  - Product Owner: Federico Pérez
  - Developers: Agustina Lamanna, Luca Bessonart
 Por motivos académicos, todos participaremos en tareas de desarrollo independientemente de los roles asignados.
+## Identificación de usuarios
+El análisis realizado para la identificación de usuarios se encuentra [aqui](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Identificaci%C3%B3n%20de%20interesados.pdf)
+## Estudio de competidores
+La documentación referente al estudio de competidores se encuentra [aqui](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Investigacion%20de%20competencia.pdf)
 ## Sprint backlog
 Se puede visualizar en el tablero.
 ## Taskboard
@@ -27,6 +31,7 @@ En los siguientes tableros mostramos el progeso del trabajo.
 ![image](https://user-images.githubusercontent.com/86334236/194651625-15ce15dc-14f0-4b12-bd1d-d47d6dafde1b.png)
 Agregamos todas las user stories, obteniendo el siguiente tablero
 ![image](https://user-images.githubusercontent.com/86334236/194665228-a5dc8398-c829-41d6-a3d3-0df08c753988.png)
+En la siguiente imágen se pueden visualizar las épicas con las cuales organizamos las user stories
 ![image](https://user-images.githubusercontent.com/86334236/194665931-97b50d36-6228-461a-9a9e-ac2c20f26971.png)
 ![image](https://user-images.githubusercontent.com/86334236/194665809-f80faaaa-7d94-4326-880f-245dc51504ee.png)
 Y obtuvimos el siguiente backlog:
@@ -54,13 +59,13 @@ Estimamos que el esfuerzo estimado del equipo es **16 horas persona**.
 ## Velocidad estimada
 Para esta iteración, como aún no teníamos stories, no estimamos la velocidad en story points.
 ## Registro de horas
-El esfuerzo real total fue de 
+El esfuerzo real total fue de 21.45.
 #### Luca Bessonart
-- 
+- 5.15
 #### Agustina Lamanna
-- 
+- 5.1
 #### Federico Pérez
-- 
+- 6
 #### Sofía Piñeyro
-- 
+- 5.2
 
