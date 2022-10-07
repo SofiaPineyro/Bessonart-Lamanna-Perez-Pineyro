@@ -9,9 +9,9 @@ Para esta iteración, definimos los siguientes roles
  - Developers: Agustina Lamanna, Luca Bessonart
 Por motivos académicos, todos participaremos en tareas de desarrollo independientemente de los roles asignados.
 ## Identificación de usuarios
-El análisis realizado para la identificación de usuarios se encuentra [aqui](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Identificaci%C3%B3n%20de%20interesados.pdf)
+El análisis realizado para la identificación de usuarios se encuentra [aqui.](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/main/Identificaci%C3%B3n%20de%20interesados.pdf)
 ## Estudio de competidores
-La documentación referente al estudio de competidores se encuentra [aqui](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Investigacion%20de%20competencia.pdf)
+La documentación referente al estudio de competidores se encuentra [aqui.](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/main/Investigacion%20de%20competencia.pdf)
 ## Sprint backlog
 Se puede visualizar en el tablero.
 ## Taskboard
