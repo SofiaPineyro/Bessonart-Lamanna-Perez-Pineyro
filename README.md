@@ -13,9 +13,9 @@ Por motivos académicos, todos participaremos en tareas de desarrollo independie
 ## Taskboard
 Realizamos un [tablero de tareas](https://dev.azure.com/sofiapineyro2302/App%20Transporte%20P%C3%BAblico) utilizando la herramienta Azure Boards. En este, agregamos todas las tareas que consideramos necesarias, tanto para esta iteración como para todo el proyecto.
 ### Tablero inicial
-Luego de la primera meeting, identificamos las siguientes tareas a realizar durante esta iteración. Como resultado, obtuvimos el siguiente tablero.
+Luego de la primera meeting, identificamos las siguientes tareas a realizar durante esta iteración. En la siguiente meeting, creamos en conjunto el siguiente tablero.
 ![image](https://user-images.githubusercontent.com/86334236/194632155-e3a8a980-50f6-47be-979c-aa6b8967eab0.png)
-Su backlog correspondiente:
+Además, creamos su backlog correspondiente:
 ![image](https://user-images.githubusercontent.com/86334236/194630984-27dd5b8a-7502-4353-8e83-d53fb268e697.png)
 ## Definición de hecho
 Como esta iteración es especial, consideramos que la definición de hecho es lograr tener un entendimiento claro sobre la investigación realizada y, finalmente, del problema a resolver.
