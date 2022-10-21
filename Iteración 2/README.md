@@ -1,10 +1,10 @@
 # Iteración 2 
 ## Sprint planning
-El documento resultante de la sprint planning meeting es el siguiente: [aqui]https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Iteraci%C3%B3n%202/Planning%20meeting.pdf
-Además en el siguiente documento se encuentra la ![definition of done]https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Iteraci%C3%B3n%202/Definition%20of%20done.pdf
+El documento resultante de la sprint planning meeting es el siguiente: [aqui](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Iteraci%C3%B3n%202/Planning%20meeting.pdf)
+Además en el siguiente documento se encuentra la [definition of done](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Iteraci%C3%B3n%202/Definition%20of%20done.pdf)
 
 ## Especificación de user stories
-En el siguiente [link]https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Iteraci%C3%B3n%202/Especificaci%C3%B3n%20User%20Stories%20.pdf se encuentra la narrativa y los criterios de aceptación de todas las user stories de este sprint.
+En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Iteraci%C3%B3n%202/Especificaci%C3%B3n%20User%20Stories%20.pdf) se encuentra la narrativa y los criterios de aceptación de todas las user stories de este sprint.
 
 ## Esfuerzo estimado
 En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Iteraci%C3%B3n%202/Planning%20poker.pdf) se encuentra la evidencia de la estimación de cada user story, realizado con Planning poker.
