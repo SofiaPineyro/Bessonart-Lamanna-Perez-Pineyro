@@ -1,6 +1,7 @@
 # Iteración 2 
 ## Sprint planning
 El documento resultante de la sprint planning meeting es el siguiente: [aqui](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/main/Iteraci%C3%B3n%202/Planning%20meeting.pdf)
+
 Además en el siguiente documento se encuentra la [definition of done](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/main/Iteraci%C3%B3n%202/Definition%20of%20done.pdf)
 
 ## Especificación de user stories
@@ -11,8 +12,11 @@ En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-P
 
 ## Evidencia del tablero
 En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/main/Iteraci%C3%B3n%202/Printscreen%20board.pdf) se encuentra la evidencia de los movimientos de tarjetas realizados durante esta iteración.
+
 En el siguiente [link](https://dev.azure.com/sofiapineyro2302/App%20Transporte%20P%C3%BAblico) se encuentra el tablero en Azure Boards.
+
 En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/main/Iteraci%C3%B3n%202/Printscreen%20tareas.pdf) se encuentra la evidencia solicitada de las tareas del taskboard.
+
 En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/main/Iteraci%C3%B3n%202/Printscreen%20user%20stories.pdf) se encuentra las user stories del backlog
 
 ## Sprint Review
