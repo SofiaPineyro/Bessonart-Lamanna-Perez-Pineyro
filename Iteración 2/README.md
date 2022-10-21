@@ -11,7 +11,7 @@ En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-P
 
 ## Evidencia del tablero
 En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Iteraci%C3%B3n%202/Printscreen%20board.pdf) se encuentra la evidencia de los movimientos de tarjetas realizados durante esta iteración.
-En el siguiente [link] (https://dev.azure.com/sofiapineyro2302/App%20Transporte%20P%C3%BAblico) se encuentra el tablero en Azure Boards.
+En el siguiente [link](https://dev.azure.com/sofiapineyro2302/App%20Transporte%20P%C3%BAblico) se encuentra el tablero en Azure Boards.
 En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Iteraci%C3%B3n%202/Printscreen%20tareas.pdf) se encuentra la evidencia solicitada de las tareas del taskboard.
 En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/develop/Iteraci%C3%B3n%202/Printscreen%20user%20stories.pdf) se encuentra las user stories del backlog
 
