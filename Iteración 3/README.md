@@ -11,7 +11,7 @@ Por otra parte, se creó un documento con la [narrativa y criterios de aceptaci�
 En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/main/Iteraci%C3%B3n%203/Planning%20poker.pdf) se encuentra la evidencia de la estimación de cada user story, realizada con Planning Poker.
 
 ## Evidencia del tablero
-El tablero de Azure Board está disponible en el siguiente[link](https://dev.azure.com/sofiapineyro2302/App%20Transporte%20P%C3%BAblico).
+El tablero de Azure Board está disponible en el siguiente [link](https://dev.azure.com/sofiapineyro2302/App%20Transporte%20P%C3%BAblico).
 
 Además, se crearon tres documentos para adjuntar la evidencia del uso de dicho tablero. 
 
