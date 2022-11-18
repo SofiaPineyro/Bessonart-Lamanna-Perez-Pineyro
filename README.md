@@ -1,6 +1,5 @@
-#Mini-proyecto ágil
+# Mini-proyecto ágil
 
-#Informe académico
 En el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/main/Iteraci%C3%B3n%204/Informe%20acad%C3%A9mico.pdf) se encuentra el informe académico del proyecto
 
 # Iteración 1 - Sprint planning
