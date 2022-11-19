@@ -6,3 +6,6 @@ El mismo se encuentra en el siguiente [link](https://github.com/SofiaPineyro/Bes
 
 ## Video demo
 En el siguiente [link](https://youtu.be/cthvaV5h9TM) se puede encontrar el video de la demo, en donde se muestran los prototipos realizados y las relaciones existentes entre las pantallas.
+
+## Registro de horas
+Se adjunta la planilla con la evidencia de las horas empleadas durante esta iteración en el siguiente [link](https://github.com/SofiaPineyro/Bessonart-Lamanna-Perez-Pineyro/blob/main/Iteraci%C3%B3n%204/Horas.xlsx) . Estas también fueron documentadas dentro del informe académico.
